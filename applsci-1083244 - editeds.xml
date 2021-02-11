@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.1" xml:lang="en">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">applsci</journal-id>
+      <journal-title-group>
+        <journal-title>Applied Sciences</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Appl. Sci.</abbrev-journal-title>
+        <abbrev-journal-title abbrev-type="pubmed">Applied Sciences</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2076-3417</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/app11040000</article-id>
+      <article-id pub-id-type="publisher-id">applsci-1083244</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Postoperative Clinical Outcomes of Thoracoscopic Surgery under Local Anesthesia in Patients with Primary Spontaneous Pneumothorax</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1597-0854</contrib-id>
+          <name>
+            <surname>Kim</surname>
+            <given-names>Eunji</given-names>
+          </name>
+          <xref rid="af1-applsci-1083244" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6840-7750</contrib-id>
+          <name>
+            <surname>Lee</surname>
+            <given-names>Chi-Seung</given-names>
+          </name>
+          <xref rid="af2-applsci-1083244" ref-type="aff">2</xref>
+          <xref rid="c1-applsci-1083244" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cho</surname>
+            <given-names>Jeong Su</given-names>
+          </name>
+          <xref rid="af3-applsci-1083244" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>I</surname>
+            <given-names>Hoseok</given-names>
+          </name>
+          <xref rid="af3-applsci-1083244" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kim</surname>
+            <given-names>Yeong Dae</given-names>
+          </name>
+          <xref rid="af3-applsci-1083244" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kim</surname>
+            <given-names>Eunsoo</given-names>
+          </name>
+          <xref rid="af4-applsci-1083244" ref-type="aff">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ahn</surname>
+            <given-names>Hyo Yeong</given-names>
+          </name>
+          <xref rid="af3-applsci-1083244" ref-type="aff">3</xref>
+          <xref rid="c1-applsci-1083244" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>D&#xF6;llinger</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-applsci-1083244"><label>1</label>Department of Thoracic and Cardiovascular Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul 05505, Korea; <email>kej2683@gmail.com</email></aff>
+      <aff id="af2-applsci-1083244"><label>2</label>Department of Convergence Medicine and Biomedical Engineering, School of Medicine, Pusan National University, and Biomedical Research Institute, Pusan National University Hospital, Busan 49241, Korea</aff>
+      <aff id="af3-applsci-1083244"><label>3</label>Department of Thoracic and Cardiovascular Surgery and Biomedical Research Institute, Pusan National University Hospital, Busan 49241, Korea; <email>drmozart@hanmail.net</email> (J.S.C.); <email>ihoseok@pusan.ac.kr</email> (H.I.); <email>domini@pnu.edu</email> (Y.D.K.)</aff>
+      <aff id="af4-applsci-1083244"><label>4</label>Department of Anesthesia and Pain Medicine and Biomedical Research Institute, Pusan National University Hospital, Busan 49241, Korea; <email>eunsookim@pusan.ac.kr</email></aff>
+      <author-notes>
+        <corresp id="c1-applsci-1083244"><label>*</label>Correspondence: <email>victorich@pusan.ac.kr</email> (C.-S.L.); <email>doctorahn02@hanmail.net</email> (H.Y.A.)</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>05</day>
+        <month>02</month>
+        <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2021</year>
+      </pub-date>
+      <volume>11</volume>
+      <issue>4</issue>
+      <elocation-id>0</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>04</day>
+          <month>01</month>
+          <year>2021</year>
+        </date>
+        <date date-type="accepted">
+          <day>02</day>
+          <month>02</month>
+          <year>2021</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2021 by the authors.</copyright-statement>
+        <copyright-year>2021</copyright-year>
+        <license license-type="open-access">
+          <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>(1) Background: since the technologies of anesthesia and surgery were advanced, video-assisted thoracic surgery (VATS) under local anesthesia (LA) has been widely carried out and is considered a robust surgical technique to prevent the recurrence of pneumothorax in patients with recurrent primary spontaneous pneumothorax (PSP). In this study, postoperative clinical outcomes were compared to evaluate the feasibility and efficacy of VATS under LA compared with general anesthesia (GA) in patients with PSP. (2) Methods: 255 patients underwent wedge resection underwent VATS for PSP in our hospital from January 2014 to June 2019. Of them, 30 patients underwent the operation under LA and the others underwent the operation under GA. Except for the anesthesia method, the same surgical technique was adopted for all patients. All medical records were retrospectively reviewed. (3) Results: the total operation time and total hospital days were relatively shorter, post-chest tube drainage was significantly shorter (0.04), and visual analog scale (VAS) scores in the outpatient clinic were significantly lower in the LA group than in the GA group (<italic>p</italic> = 0.01). The incidence of postoperative recurrence after discharge in the LA group (3.3%) was also lower than in the GA group (18.67%) (<italic>p</italic> = 0.001). In the LA group, there were no cases of conversion to intubation. (4) Conclusions: our results showed relatively better clinical outcomes in VATS under LA with sedation than under GA in the treatment of PSP. Hence, LA with sedation can be considered as a robust anesthetic technique for VATS and as applicable in the surgical treatment of PSP.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>primary spontaneous pneumothorax (PSP)</kwd>
+        <kwd>local anesthesia (LA)</kwd>
+        <kwd>general anesthesia (GA)</kwd>
+        <kwd>clinical outcome</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-applsci-1083244" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Spontaneous pneumothorax is a commonly encountered disease. If there is no underlying lung disease, it is categorized as primary spontaneous pneumothorax (PSP). Although there is no underlying pulmonary disease in PSP patients, blebs and bullae are observed in computed tomography (CT) imaging in up to 80&#x2013;90% of the cases [<xref ref-type="bibr" rid="B1-applsci-1083244">1</xref>]. PSP is widely known to occur in tall, thin young men and shows a high recurrence rate in patients who undergo no surgical interventions [<xref ref-type="bibr" rid="B2-applsci-1083244">2</xref>,<xref ref-type="bibr" rid="B3-applsci-1083244">3</xref>,<xref ref-type="bibr" rid="B4-applsci-1083244">4</xref>,<xref ref-type="bibr" rid="B5-applsci-1083244">5</xref>,<xref ref-type="bibr" rid="B6-applsci-1083244">6</xref>]. Video-assisted thoracic surgery (VATS) can be performed to prevent recurrences after closed thoracostomy procedures.</p>
+      <p>VATS is usually performed under general anesthesia (GA) with double-lumen endotracheal intubation. However, general anesthesia may be associated with complications including lung infections, intubation-related airway trauma, injury due to ventilation pressure or overexpansion, residual neuromuscular blockade, cardiac dysfunction, arrhythmia, postoperative sore throat, and postoperative nausea and vomiting [<xref ref-type="bibr" rid="B7-applsci-1083244">7</xref>,<xref ref-type="bibr" rid="B8-applsci-1083244">8</xref>,<xref ref-type="bibr" rid="B9-applsci-1083244">9</xref>,<xref ref-type="bibr" rid="B10-applsci-1083244">10</xref>].</p>
+      <p>For these reasons, our center conducts surgery for PSP under non-intubated anesthesia, specifically local anesthesia (LA) with sedation. This study aimed to prove the feasibility and efficacy of VATS performed under LA with sedation in PSP patients.</p>
+    </sec>
+    <sec id="sec2-applsci-1083244">
+      <title>2. Materials and Methods </title>
+      <p>From January 2014 to June 2019, 255 patients underwent wedge resection using VATS for PSP in our hospital. The operation indications in these patients included recurrent ipsilateral or contralateral pneumothorax, persistent air leakage for more than seven days, total collapse in initial X-ray scans, large or multiple visible blebs in chest CT images, concomitant hemothorax, and frequent pneumothorax recurrence due to stress, caused by upcoming important exams such as the Korean Collage Scholastic Ability Test (CSAT) among Korean student patients. Indeed, according to some literature, this extreme stress can lead to the frequent recurrence of pneumothorax (<xref ref-type="table" rid="applsci-1083244-t001">Table 1</xref>).</p>
+      <p>Of these 255 patients, 30 underwent surgery under LA, while the others underwent surgery under GA. The surgical technique was more or less identical in both groups; however, three air-locking ports were used in LA in case of abrupt desaturation or if endurable dyspnea was caused.</p>
+      <p>All medical records were retrospectively reviewed for operating time, interval time to operation, duration of pre- and post-procedural chest tube drainage, total duration of hospital stay, visual analog scale (VAS) scores measured at various points in time (preoperatively, immediately after surgery, on postoperative day (POD) 1, and at the first outpatient visit during follow-up), post-procedural complications, duration of post-procedural hospital stay, number of wedge resections and number of ports inserted, technique used for pleural coverage, duration of postoperative air leak, recurrence rate, and follow-up duration. This study was approved by the Institutional Review Board of Pusan National University, Busan, Republic of Korea (IRB No. 1908020084). Informed consent was not required for this retrospective study.</p>
+      <sec id="sec2dot1-applsci-1083244">
+        <title>2.1. Anesthetic Techniques</title>
+        <sec id="sec2dot1dot1-applsci-1083244">
+          <title>2.1.1. Local Anesthesia with Sedation (LA Group)</title>
+          <p>Precedex&#x2122; (2.5&#x2009;mg/kg) and fentanyl (2&#x2009;&#x3BC;g/kg) were injected through an intravenous line until the patient was sedated; administration was stopped just after wedge resection was completed. Oxygen was supplied at a rate of 3 l/min through the nasal cannula. Standard monitors were in place including a five-lead ECG (electrocardiogram), non-invasive arterial blood pressure monitoring, and SpO2 measurement.</p>
+        </sec>
+        <sec id="sec2dot1dot2-applsci-1083244">
+          <title>2.1.2. General Anesthesia (GA Group)</title>
+          <p>For patients in this group, propofol (2.5&#x2009;mg/kg) and fentanyl (2&#x2009;&#x3BC;g/kg) were administered intravenously; intubation was done with a cuffed endotracheal tube after muscle relaxation was achieved using cisatracurium (0.2&#x2009;mg/kg). Following the initial dose, anesthesia was maintained using an isoflurane and cisatracurium maintenance dose (0.2&#x2009;mg/kg every 50&#x2013;60&#x2009;min). Positive pressure ventilation was used to obtain an end-tidal CO&#x2082; level of 35 mmHg, at which point an oropharyngeal pack was inserted.</p>
+        </sec>
+      </sec>
+      <sec id="sec2dot2-applsci-1083244">
+        <title>2.2. Operative Techniques</title>
+        <p>Patients were placed in the lateral position with the operating side facing upwards; 2% lidocaine was then injected into the previous chest tube site. While thoracoscopic inspection was performed, 2% lidocaine was injected into the following sites, according to the technique used; a 5 mm port in the sub-axillary line, a 2 mm port in the fifth prescapular line, and the site of the previous chest tube. After the thoracoscope was placed through the 5 mm port in the sub-axillary line, the blebs were grabbed using a 2 mm clinch and resected using a stapler inserted through the previous chest tube site. </p>
+        <p>After resection of the blebs, an air leak test was performed by applying suction through the air-locking port under a closed system in the LA group, and by maintaining ambu-bagging with two-lung ventilation in the GA group. The staple line was covered using non-woven polyglycolic acid sheets (Neoveil&#xAE; (Gunze Limited; Ayabe, Japan)) and sealed with a fibrin sealant (Tisseel (Baxter Healthcare Corporation; Westlake Village, California, USA)) or oxidized regenerated cellulose with fibrin sealant (Surgicel&#xAE; (Ethicon Inc.&#x2014;Johnson &amp; Johnson; Somerville, New Jersey, USA)).</p>
+      </sec>
+      <sec id="sec2dot3-applsci-1083244">
+        <title>2.3. Postoperative Care</title>
+        <p>Generally, Jackson-Pratt (J-P) drains maintain a flat and round shape, allowing no remnant air leakage. However, in cases where there was bulging of the bag two or more times, the bag needed to be replaced with a bottle. Suction was applied until the air leak stopped. When x-rays showed full expansion of the lungs and complete cessation of the air leak, the J-P drain could be removed. </p>
+      </sec>
+      <sec id="sec2dot4-applsci-1083244">
+        <title>2.4. Statistical Analysis</title>
+        <p>Data were analyzed using the Statistical Package for Social Sciences&#xAE; software (SPSS&#xAE;) version 16.0 (IBM&#xAE;; Chicago, Illinois, USA) and statistical significance was defined as <italic>p</italic> &lt; 0.05. For univariate statistical analysis, the Mann&#x2014;Whitney U test for clinical findings and the chi-squared test for gender distribution were used. Spearman&#x2019;s correlation coefficient was adopted to measure the strength association between the rate of recurrence and the number of ports inserted, the length of lung resected, the technique used for pleural coverage, the number of wedge resections performed, or the number of previous attacks.</p>
+      </sec>
+    </sec>
+    <sec id="sec3-applsci-1083244" sec-type="results">
+      <title>3. Results</title>
+      <p>Of 255 patients, 225 underwent surgery under GA with endotracheal intubation while 30 underwent surgery under LA with sedation and without endotracheal intubation. There were no large differences between the demographic characteristics of the two groups (<xref ref-type="table" rid="applsci-1083244-t002">Table 2</xref>).</p>
+      <p>The mean age was 21.05 &#xB1; 6.13 years in the GA group and 21.76 &#xB1; 5.71 years in the LA group (<italic>p</italic> = 0.98). The number of male patients in the GA group was 210 and in the LA group 29 (<italic>p</italic> = 0.15) (<xref ref-type="table" rid="applsci-1083244-t001">Table 1</xref>). The mean interval from the day of admission to the operation, the mean interval from the operation to the time of discharge, and the total duration of hospital stay were significantly shorter in the LA group than in the GA group (<italic>p</italic> = 0.03, 0.08, &lt;0.01). The durations of preoperative chest tube drainage were 2.96 &#xB1; 2.31 days in the GA group and 2.20 &#xB1; 1.86 days in the LA group (<italic>p</italic> = 0.10) and those of postoperative chest tube drainage were 1.58 &#xB1; 1.27 days in the GA group and 1.27 &#xB1; 0.52 days in the LA group (<italic>p</italic> = 0.30) The pain which patients complained of was measured using VAS scores. Although there were no significant differences between the two groups in preoperative VAS scores, on POD 1 (<italic>p</italic> = 0.58) the VAS scores measured in the outpatient clinic (during follow-up) were 0.15 &#xB1; 0.62 in the GA group and 0.00 &#xB1; 0.00 in the LA group (<italic>p</italic> = 0.05) (<xref ref-type="table" rid="applsci-1083244-t003">Table 3</xref>).</p>
+      <p>The duration of the follow-up was 314.25 &#xB1; 442.19 days in the GA group and 109.57 &#xB1; 178.69 days in the LA group (<italic>p</italic> &lt; 0.01). There was recurrence of pneumothorax in 43 of the 255 patients (16.86%); of the 43, 42 cases (97.7%) were from the GA group while one case (2.3%) was from the LA group. The rate of recurrence in the GA group was 18.7% and that of the LA group was 3.3%, which was significantly different (<italic>p</italic> = 0.03) (<xref ref-type="table" rid="applsci-1083244-t003">Table 3</xref>).</p>
+      <p>The mean operative time was 60.99 &#xB1; 22.57 minutes in the GA group and 50.57 &#xB1; 14.83 minutes in the LA group (<italic>p</italic> = 0.02). The total number of wedge resections performed was 1.93 &#xB1; 0.74 in the GA group and 1.48 &#xB1; 0.64 in the LA group (<italic>p</italic> &lt; 0.01). The total length of lung resected was 7.50 &#xB1; 3.21 in the GA group and 5.85 &#xB1; 2.60 in the LA group (<italic>p</italic> = 0.73) (<xref ref-type="table" rid="applsci-1083244-t004">Table 4</xref>).</p>
+      <p>The correlation coefficients were not statistically significant between the rate of recurrence and the operative time (<italic>p</italic> = 0.52), the number of ports inserted (<italic>p</italic> = 0.74), the length of lung resected (<italic>p</italic> = 0.371), the technique used for pleural coverage (<italic>p</italic> = 0.65), the number of wedge resections performed (<italic>p</italic> = 0.26), the number of previous attacks (<italic>p</italic> = 0.17), or smoking history (<italic>p</italic> = 0.07; ex-smoker, <italic>p</italic> = 0.48; recent smoker, <italic>p</italic> = 0.07).</p>
+      <p>On the other hand, the difference in lung behavior according to the anesthetic technique used was analyzed from a biomechanical point of view (<xref ref-type="fig" rid="applsci-1083244-f001">Figure 1</xref>) as follows.</p>
+      <p>A/B in <xref ref-type="fig" rid="applsci-1083244-f001">Figure 1</xref> (lung expansion mechanism under general anesthesia): a double-lumen endotracheal tube is inserted into the airway and then the positive pressure is applied to the lungs. As a result, the lung volume becomes larger than the maximum expansion lung volume during breathing and more intra-alveolar air is retained. This phenomenon can generate high tension in the resection line and cause damage to the visceral pleura, which could precede the neogenesis of bullae.</p>
+      <p>C/D in <xref ref-type="fig" rid="applsci-1083244-f001">Figure 1</xref> (lung expansion mechanism under local anesthesia): a catheter is inserted into the thorax and then negative pressure is applied to the lungs. As a result, the diaphragm elevates, resulting in less intra-thoracic negative pressure than in the procedure using a double-lumen endotracheal tube. This induces less tension in the resection line and causes less damage to the visceral pleura.</p>
+    </sec>
+    <sec id="sec4-applsci-1083244" sec-type="discussion">
+      <title>4. Discussion</title>
+      <p>With the advancement of surgical techniques and equipment, VATS surgery can be easily adapted for the management of PSP. Despite the use of minimally invasive incisions, the field of anesthesia still aims to further minimize the damage to patients during a surgery. There are many studies comparing methods of anesthesia, specifically comparing GA with a double-lumen endotracheal tube with epidural anesthesia [<xref ref-type="bibr" rid="B2-applsci-1083244">2</xref>,<xref ref-type="bibr" rid="B11-applsci-1083244">11</xref>,<xref ref-type="bibr" rid="B12-applsci-1083244">12</xref>,<xref ref-type="bibr" rid="B13-applsci-1083244">13</xref>]. However, there have only been a few studies comparing postoperative clinical outcomes in patients with pneumothorax who underwent surgery under general and local anesthesia [<xref ref-type="bibr" rid="B10-applsci-1083244">10</xref>]. This study reviewed many variables to compare postoperative clinical outcomes in patients who underwent surgery for PSP under GA and LA at our center. </p>
+      <p>The surgical technique was more or less similar between the two groups: wedge resection of blebs was done with shallow shaving so as not to have excessive tension in the resection area, followed by visceral coverage using Neoveil&#xAE; with glue. However, intraoperative management should be different for the two groups; in the case of GA, the exposed lung can be expanded by the anesthesiologist whenever required (if oxygen saturation decreases or if vital signs become unstable). However, with LA, the gradually collapsed lung cannot be expanded, even in a critical situation, unless the incision is sealed. Then, locking ports with valves at the entrance (usually used in laparoscopic surgery) need to be placed&#x2014;which could make the lung expand due to the negative pressure through the ports at the end of the operation.</p>
+      <p>In the study reported here, we did not perform mechanical or chemical pleurodesis after resection, since mechanical pleurodesis could lead to bleeding and chest pain and chemical pleurodesis could cause acute lung injury due to pulmonary dissemination of talc particles. Recent studies have shown that pneumothorax generally occurs in visceral pleural lesions and that visceral strengthening should be aimed for to prevent recurrence, rather than adhesion between visceral and parietal pleura. Furthermore, mechanical or chemical pleurodesis was not preferable for reducing postoperative pain.</p>
+      <p>Performing thoracic surgery under LA can induce iatrogenic pneumothorax, resulting in desaturation, or, due to the manipulation of the lung parenchyma, activate the cough reflex&#x2014;both of which increase the difficulty of the procedure by impeding easy manipulation. Therefore, unnecessary manipulation of the lung tissue should be minimized. It follows that planning ahead is important, using preoperative chest CT images to locate the blebs and plan the placement of ports. </p>
+      <p>The total duration of hospital stay was significantly shorter for the LA group than for the GA group&#x2014;a result of the decreased time interval from admission to operation and operation to discharge. The interval between admission and operation was short because surgery under LA is the easiest way to arrange the schedule in our center. The interval between operation and discharge was significantly shorter for the LA group than for the GA group, which made a difference to the total duration of hospital stay. The duration of postoperative chest tube drainage especially was relatively shorter in the LA group than in the GA group and could be predicted from early independent ambulation and lung rehabilitation and early cessation of postoperative air leakage.</p>
+      <p>Reviewing the relationships between the clinical outcomes and the perioperative findings shows that the recurrence rate was significantly lower in cases operated upon with local anesthesia. There was no correlation between the various operative techniques, the operative time, or the length of resected lung parenchyma and the rate of recurrence. However, we hypothesize that some differences between the two groups during lung expansion had an impact on the rate of recurrence; this hypothesis is based on several articles that have shown that the neogenesis of bullae causes recurrences of the pneumothorax. Generally speaking, the neogenesis of bullae can be caused by the check valve mechanism affecting the staple line. In the GA group, the lung was usually expanded by positive pressure applied through the double-lumen endotracheal tube (<xref ref-type="fig" rid="applsci-1083244-f001">Figure 1</xref>A,B); as the air entered the alveoli without sufficient removal, it could become an obstruction and cause initiation of neogenesis of bullae. However, in the LA group, a collapsed lung could be expanded by negative pressure applied through the catheter in the thorax, which causes elevation of the diaphragm and decreases intrathoracic volume (<xref ref-type="fig" rid="applsci-1083244-f001">Figure 1</xref>C,D).</p>
+      <p>The benefits of LA with sedation are as follows: less pain in the throat and decreased postoperative numbness. Under LA, there is no need to intubate with the double-lumen endotracheal tube. This eliminates the injuries associated with intubation; therefore, fewer patients complain of throat pain in LA groups than in GA groups [<xref ref-type="bibr" rid="B2-applsci-1083244">2</xref>,<xref ref-type="bibr" rid="B11-applsci-1083244">11</xref>,<xref ref-type="bibr" rid="B12-applsci-1083244">12</xref>,<xref ref-type="bibr" rid="B13-applsci-1083244">13</xref>,<xref ref-type="bibr" rid="B14-applsci-1083244">14</xref>,<xref ref-type="bibr" rid="B15-applsci-1083244">15</xref>]. During surgery under LA, the patient is in mild sedation. Owing to the risk of the patient waking up with pain, intraoperative procedures are performed carefully. This can lessen the external force on the intercostal space, which then decreases the acute postoperative pain.</p>
+      <p>The results of this study show that operations under LA might be feasible. However, there are some limitations: the two groups studied were not randomized, the LA group had a relatively short duration of follow-up (which might have led to the underestimation of the rate of recurrence), and the number of patients was small. The medical system in our center requests that patients with PSP are not fast-tracked; however, the Korean educational system is relatively tight and it may take a long time for students to be admitted, as mentioned in <xref ref-type="sec" rid="sec2-applsci-1083244">Section 2</xref>. These estrangements between the real world and medical system led us to study operations under LA, which do not require overly long hospital stays or preoperative periods. Until recently, postoperative outcomes after operations under LA were comparable with outcomes for operations under GA, as confirmed retrospectively by the present observational study. In the near future, we intend to initiate a randomized study to compare the postoperative outcomes.</p>
+      <p>Despite the limitations of this study and the difficulties of operating with LA, this study shows that surgery under LA with sedation might be both feasible and efficient in treating patients with PSP.</p>
+    </sec>
+  </body>
+  <back>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Conceptualization, E.K. (Eunji Kim), C.-S.L. and H.Y.A.; investigation, E.K. (Eunji Kim) and H.Y.A.; formal analysis, E.K. (Eunji Kim) and H.Y.A.; resources, J.S.C., H.I., Y.D.K. E.K. (Eunsoo Kim) and H.Y.A.; project administration, C.-S.L.; writing&#x2014;original draft preparation, E.K. (Eunji Kim), C.-S.L. and H.Y.A.; writing&#x2014;review and editing, E.K. (Eunji Kim), C.-S.L. and H.Y.A. All authors have read and agreed to the published version of the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Funding</title>
+      <p>This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea Government (MSIT) (No. NRF-2020R1C1C1005004).</p>
+    </notes>
+    <notes>
+      <title>Institutional Review Board Statement</title>
+      <p>The study was conducted according to the guidelines of the Declaration of Helsinki and approved by the Institutional Review Board of Pusan National University Hospital (IRB No. 1908020084).</p>
+    </notes>
+    <notes>
+      <title>Informed Consent Statement</title>
+      <p>Informed consent was obtained from all subjects involved in the study.</p>
+    </notes>
+    <notes>
+      <title>Data Availability Statement</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest. The funders had no role in the study design, data collection and analyses, writing of the manuscript, or in the decision to publish the results.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-applsci-1083244">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Henry</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>BTS guidelines for the management of spontaneous pneumothorax</article-title>
+          <source>Thorax</source>
+          <year>2003</year>
+          <volume>58</volume>
+          <fpage>ii39</fpage>
+          <lpage>ii52</lpage>
+          <pub-id pub-id-type="doi">10.1136/thorax.58.suppl_2.ii39</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2-applsci-1083244">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pompeo</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Tacconi</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Mineo</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Mineo</surname>
+              <given-names>T.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>The role of awake video-assisted thoracoscopic surgery in spontaneous pneumothorax</article-title>
+          <source>J. Thorac. Cardiovasc. Surg.</source>
+          <year>2007</year>
+          <volume>133</volume>
+          <fpage>786</fpage>
+          <lpage>790</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jtcvs.2006.11.001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3-applsci-1083244">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haynes</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Baumann</surname>
+              <given-names>M.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Management of Pneumothorax</article-title>
+          <source>Semin. Respir. Crit. Care Med.</source>
+          <year>2010</year>
+          <volume>31</volume>
+          <fpage>769</fpage>
+          <lpage>780</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-0030-1269837</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4-applsci-1083244">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hrivn&#xE1;k</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Hanke</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>S&#xE1;ndor</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Mit&#xE1;s</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Vomela</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Spont&#xE1;inn&#xED; pneumotorax--management, terapie [Spontaneous pneumo-thorax--management, therapy]</article-title>
+          <source>Rozhl. Chir.</source>
+          <year>2009</year>
+          <volume>88</volume>
+          <fpage>559</fpage>
+          <lpage>562</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B5-applsci-1083244">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pallin</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Open</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Moloney</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Lane</surname>
+              <given-names>S.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Spontaneous pneumothorax management</article-title>
+          <source>Ir. Med. J.</source>
+          <year>2010</year>
+          <volume>103</volume>
+          <fpage>272</fpage>
+          <lpage>275</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B6-applsci-1083244">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tschopp</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Frank</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Noppen</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Das Management des Spontanpneumothorax [The management of spontaneous pneumothorax]</article-title>
+          <source>Pneumologie</source>
+          <year>2005</year>
+          <volume>59</volume>
+          <fpage>879</fpage>
+          <lpage>889</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-2005-919071</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7-applsci-1083244">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gothard</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Lung injury after thoracic surgery and one-lung ventilation</article-title>
+          <source>Curr. Opin. Anaesthesiol.</source>
+          <year>2006</year>
+          <volume>19</volume>
+          <fpage>5</fpage>
+          <lpage>10</lpage>
+          <pub-id pub-id-type="doi">10.1097/01.aco.0000192783.40021.c1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8-applsci-1083244">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>J.H.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>S.-H.</given-names>
+            </name>
+            <name>
+              <surname>Han</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Nahm</surname>
+              <given-names>F.S.</given-names>
+            </name>
+            <name>
+              <surname>Jung</surname>
+              <given-names>C.K.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>K.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>The distance between the carina and the distal margin of the right upper lobe orifice measured by computerised tomography as a guide to right-sided double-lumen endobronchial tube use</article-title>
+          <source>Anaesthesia</source>
+          <year>2013</year>
+          <volume>68</volume>
+          <fpage>700</fpage>
+          <lpage>705</lpage>
+          <pub-id pub-id-type="doi">10.1111/anae.12208</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9-applsci-1083244">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murphy</surname>
+              <given-names>G.S.</given-names>
+            </name>
+            <name>
+              <surname>Szokol</surname>
+              <given-names>J.W.</given-names>
+            </name>
+            <name>
+              <surname>Avram</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Greenberg</surname>
+              <given-names>S.B.</given-names>
+            </name>
+            <name>
+              <surname>Shear</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Vender</surname>
+              <given-names>J.S.</given-names>
+            </name>
+            <name>
+              <surname>Gray</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Landry</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Postoperative Residual Neuromuscular Blockade Is Associated with Impaired Clinical Recovery</article-title>
+          <source>Anesth. Analg.</source>
+          <year>2013</year>
+          <volume>117</volume>
+          <fpage>133</fpage>
+          <lpage>141</lpage>
+          <pub-id pub-id-type="doi">10.1213/ane.0b013e3182742e75</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10-applsci-1083244">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jung</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>D.H.</given-names>
+            </name>
+            <name>
+              <surname>Son</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Son</surname>
+              <given-names>B.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparative study between local anesthesia and general anesthesia in the treatment of primary spontaneous pneumothorax</article-title>
+          <source>Ann. Transl. Med.</source>
+          <year>2019</year>
+          <volume>7</volume>
+          <fpage>553</fpage>
+          <pub-id pub-id-type="doi">10.21037/atm.2019.09.89</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11-applsci-1083244">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kiss</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Claret</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Desbordes</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Porte</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thoracic epidural anaesthesia for awake thoracic surgery in severely dyspnoeic patients excluded from general anaesthesia</article-title>
+          <source>Interact. Cardiovasc. Thorac. Surg.</source>
+          <year>2014</year>
+          <volume>19</volume>
+          <fpage>816</fpage>
+          <lpage>823</lpage>
+          <pub-id pub-id-type="doi">10.1093/icvts/ivu230</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12-applsci-1083244">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mineo</surname>
+              <given-names>T.C.</given-names>
+            </name>
+            <name>
+              <surname>Ambrogi</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Awake thoracic surgery for secondary spontaneous pneumothorax: Another advancement</article-title>
+          <source>J. Thorac. Cardiovasc. Surg.</source>
+          <year>2012</year>
+          <volume>144</volume>
+          <fpage>1533</fpage>
+          <lpage>1534</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jtcvs.2012.06.061</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13-applsci-1083244">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rocco</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>La Rocca</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Martucci</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Accardo</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Awake single-access (uniportal) video-assisted thoracoscopic surgery for spontaneous pneumothorax</article-title>
+          <source>J. Thorac. Cardiovasc. Surg.</source>
+          <year>2011</year>
+          <volume>142</volume>
+          <fpage>944</fpage>
+          <lpage>945</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jtcvs.2011.01.048</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14-applsci-1083244">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bedetti</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Patrini</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Bertolaccini</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Crisci</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Solli</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Schmidt</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Scarci</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Uniportal non-intubated thoracic surgery</article-title>
+          <source>J. Vis. Surg.</source>
+          <year>2018</year>
+          <volume>4</volume>
+          <fpage>18</fpage>
+          <pub-id pub-id-type="doi">10.21037/jovs.2017.12.09</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15-applsci-1083244">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y.-J.</given-names>
+            </name>
+            <name>
+              <surname>Hung</surname>
+              <given-names>M.-H.</given-names>
+            </name>
+            <name>
+              <surname>Hsu</surname>
+              <given-names>H.-H.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>J.-S.</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>Y.-J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects on respiration of nonintubated anesthesia in thoracoscopic surgery under spontaneous ventilation</article-title>
+          <source>Ann. Transl. Med.</source>
+          <year>2015</year>
+          <volume>3</volume>
+          <fpage>107</fpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure and Tables</title>
+      <fig id="applsci-1083244-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Diagram illustrating the biomechanical behavior of lung according to the anesthetic technique used.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="applsci-1083244-g001.tif"/>
+      </fig>
+      <table-wrap id="applsci-1083244-t001" position="float">
+        <object-id pub-id-type="pii">applsci-1083244-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Prevalence of <bold>i</bold>ndications in each group.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Variable</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">GA Group (n = 225)</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">LA Group(n = 30)</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin"><italic>p-</italic>Value</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle">Recurrent ipsilateral pneumothorax</td>
+              <td align="center" valign="middle">101 </td>
+              <td align="center" valign="middle">8</td>
+              <td align="center" valign="middle">0.06</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Contralateral pneumothorax</td>
+              <td align="center" valign="middle">21</td>
+              <td align="center" valign="middle">3</td>
+              <td align="center" valign="middle">0.91</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Persistent air leakage for more than seven days</td>
+              <td align="center" valign="middle">15</td>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">0.48</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Total collapse in initial x-ray scans</td>
+              <td align="center" valign="middle">20</td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">0.18</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Large or multiple visible blebs in chest CT images</td>
+              <td align="center" valign="middle">26</td>
+              <td align="center" valign="middle">2</td>
+              <td align="center" valign="middle">0.42</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Concomitant hemothorax</td>
+              <td align="center" valign="middle">2</td>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">0.24</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Upcoming important examinations</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">40</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">10</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.11</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap id="applsci-1083244-t002" position="float">
+        <object-id pub-id-type="pii">applsci-1083244-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>Patient demographic characteristics.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Variable</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">GA Group </th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">LA Group</th>
+              <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin"><italic>p-</italic>Value</th>
+            </tr>
+            <tr>
+              <th align="center" valign="middle" style="border-bottom:solid thin">(n = 225)</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">(n = 30)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle">Age (years)</td>
+              <td align="center" valign="middle">21.05 &#xB1; 6.13 </td>
+              <td align="center" valign="middle">21.76 &#xB1; 5.71 </td>
+              <td align="center" valign="middle">0.98</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Gender</td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">0.15</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Female</td>
+              <td align="center" valign="middle">15</td>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle"> </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Male</td>
+              <td align="center" valign="middle">210</td>
+              <td align="center" valign="middle">29</td>
+              <td align="center" valign="middle"> </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Height (cm)/weight (kg)</td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">0.61</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Female</td>
+              <td align="center" valign="middle">164.71 &#xB1; 7.28/48.64 &#xB1; 8.34</td>
+              <td align="center" valign="middle">167/47.6</td>
+              <td align="center" valign="middle"> </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Male</td>
+              <td align="center" valign="middle">185.56 &#xB1; 6.11/61.13 &#xB1; 9.64</td>
+              <td align="center" valign="middle">184.94 &#xB1; 7.33/57.64 &#xB1; 6.49</td>
+              <td align="center" valign="middle"> </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Smoking history</td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">0.03</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Ex-smoker</td>
+              <td align="center" valign="middle">9</td>
+              <td align="center" valign="middle">2</td>
+              <td align="center" valign="middle">1.0</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Recent smoker</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">9</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">4</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.82</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap id="applsci-1083244-t003" position="float">
+        <object-id pub-id-type="pii">applsci-1083244-t003_Table 3</object-id>
+        <label>Table 3</label>
+        <caption>
+          <p>Perioperative clinical findings.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Variable</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">GA Group </th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">LA Group</th>
+              <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin"><italic>p-</italic>Value</th>
+            </tr>
+            <tr>
+              <th align="center" valign="middle" style="border-bottom:solid thin">(n = 225)</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">(n = 30)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle">Interval day (days)</td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Admission to operation</td>
+              <td align="center" valign="middle">3.42 &#xB1; 1.98 </td>
+              <td align="center" valign="middle">2.57 &#xB1; 1.61 </td>
+              <td align="center" valign="middle">0.03</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Operation to discharge</td>
+              <td align="center" valign="middle">2.56 &#xB1; 1.51 </td>
+              <td align="center" valign="middle">1.73 &#xB1; 1.23 </td>
+              <td align="center" valign="middle">0.08</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Total hospital stay (days)</td>
+              <td align="center" valign="middle">5.92 &#xB1; 2.55 </td>
+              <td align="center" valign="middle">4.33 &#xB1; 1.99</td>
+              <td align="center" valign="middle">&lt;0.01</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Chest tube drainage</td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Preoperative chest tube drainage (days)</td>
+              <td align="center" valign="middle">2.96 &#xB1; 2.31 </td>
+              <td align="center" valign="middle">2.20 &#xB1; 1.86 </td>
+              <td align="center" valign="middle">0.10</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Postoperative chest tube drainage (days)</td>
+              <td align="center" valign="middle">1.58 &#xB1; 1.27 </td>
+              <td align="center" valign="middle">1.27 &#xB1; 0.52</td>
+              <td align="center" valign="middle">0.30</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Oxygen saturation </td>
+              <td rowspan="2" align="center" valign="middle">97.26 &#xB1; 1.74 </td>
+              <td rowspan="2" align="center" valign="middle">97.97 &#xB1; 1.33</td>
+              <td rowspan="2" align="center" valign="middle">0.05</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">postoperation (%)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">VAS score</td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Preoperative</td>
+              <td align="center" valign="middle">1.95 &#xB1; 1.25</td>
+              <td align="center" valign="middle">1.97 &#xB1; 0.85</td>
+              <td align="center" valign="middle">0.81</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Immediate</td>
+              <td align="center" valign="middle">5.07 &#xB1; 1.60</td>
+              <td align="center" valign="middle">5.40 &#xB1; 1.16</td>
+              <td align="center" valign="middle">0.44</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Postoperative day 1</td>
+              <td align="center" valign="middle">2.80 &#xB1; 0.61</td>
+              <td align="center" valign="middle">2.77 &#xB1; 0.50</td>
+              <td align="center" valign="middle">0.58</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Outpatient clinics</td>
+              <td align="center" valign="middle">0.15 &#xB1; 0.62</td>
+              <td align="center" valign="middle">0.00 &#xB1; 0.00</td>
+              <td align="center" valign="middle">0.05</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Follow-up duration (days)</td>
+              <td align="center" valign="middle">314.25 &#xB1; 442.19</td>
+              <td align="center" valign="middle">109.57 &#xB1; 178.69</td>
+              <td align="center" valign="middle">&lt;0.01</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Recurrence</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">42 (18.67%)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">1 (3.33%)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.03</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap id="applsci-1083244-t004" position="float">
+        <object-id pub-id-type="pii">applsci-1083244-t004_Table 4</object-id>
+        <label>Table 4</label>
+        <caption>
+          <p>Intraoperative details.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Variable</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">GA Group </th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">LA Group </th>
+              <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin"><italic>p-</italic>Value </th>
+            </tr>
+            <tr>
+              <th align="center" valign="middle" style="border-bottom:solid thin">(n = 225) </th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">(n = 30) </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle">Operation time (minutes) </td>
+              <td align="center" valign="middle">60.99 &#xB1; 22.57</td>
+              <td align="center" valign="middle">50.57 &#xB1; 14.83</td>
+              <td align="center" valign="middle">0.02 </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Total number of wedge resections </td>
+              <td align="center" valign="middle">1.93 &#xB1; 0.74</td>
+              <td align="center" valign="middle">1.48 &#xB1; 0.64</td>
+              <td align="center" valign="middle">&lt;0.01</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Total length of resected lung </td>
+              <td align="center" valign="middle">7.50 &#xB1; 3.21</td>
+              <td align="center" valign="middle">5.85 &#xB1; 2.60</td>
+              <td align="center" valign="middle">&lt;0.01</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Pleural coverage methods </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">0.03</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Neoveil&#xAE; with fibrin sealant </td>
+              <td align="center" valign="middle">205 </td>
+              <td align="center" valign="middle">29 </td>
+              <td align="center" valign="middle"> </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Surgicel&#xAE; with fibrin sealant </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">20 </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">1 </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin"> </td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+    <fn-group>
+      <fn>
+        <p><bold>Publisher&#x2019;s Note:</bold> MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

@@ -1,0 +1,1992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.1" xml:lang="en">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">jcm</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Clinical Medicine</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">J. Clin. Med.</abbrev-journal-title>
+        <abbrev-journal-title abbrev-type="pubmed">Journal of Clinical Medicine</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2077-0383</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/jcm10040000</article-id>
+      <article-id pub-id-type="publisher-id">jcm-1063296</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Diagnostic Accuracy of Magnetic Resonance Imaging in the Detection of Type and Location of Meniscus Tears: Comparison with Arthroscopic Findings</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kim</surname>
+            <given-names>Seong Hwan</given-names>
+          </name>
+          <xref rid="af1-jcm-1063296" ref-type="aff">1</xref>
+          <xref rid="af2-jcm-1063296" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lee</surname>
+            <given-names>Han-Jun</given-names>
+          </name>
+          <xref rid="af1-jcm-1063296" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jang</surname>
+            <given-names>Ye-Hoon</given-names>
+          </name>
+          <xref rid="af1-jcm-1063296" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chun</surname>
+            <given-names>Kwang-Jin</given-names>
+          </name>
+          <xref rid="af1-jcm-1063296" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3741-2311</contrib-id>
+          <name>
+            <surname>Park</surname>
+            <given-names>Yong-Beom</given-names>
+          </name>
+          <xref rid="af1-jcm-1063296" ref-type="aff">1</xref>
+          <xref rid="c1-jcm-1063296" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Lee</surname>
+            <given-names>Yong Seuk</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-jcm-1063296"><label>1</label>Department of Orthopedic Surgery, Chung-Ang University Hospital, Chung-Ang University College of Medicine, 102 Heukseok-ro, Dongjak-gu, Seoul 06973, Korea; <email>ksh170177@nate.com</email> (S.H.K.); <email>gustinolhj@cau.ac.kr</email> (H.-J.L.); <email>jyh1029@caumc.or.kr</email> (Y.-H.J.); <email>ckj937@caumc.or.kr</email> (K.-J.C.)</aff>
+      <aff id="af2-jcm-1063296"><label>2</label>Department of Orthopedic Surgery, Hyundae General Hospital, Chung-Ang University, Namyangju-Si 12013, Korea</aff>
+      <author-notes>
+        <corresp id="c1-jcm-1063296"><label>*</label>Correspondence: <email>whybe1122@gmail.com</email>; Tel.: +82-2-6299-1593</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>05</day>
+        <month>02</month>
+        <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2021</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>4</issue>
+      <elocation-id>0</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>12</month>
+          <year>2020</year>
+        </date>
+        <date date-type="accepted">
+          <day>03</day>
+          <month>02</month>
+          <year>2021</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2021 by the authors.</copyright-statement>
+        <copyright-year>2021</copyright-year>
+        <license license-type="open-access">
+          <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Magnetic resonance imaging (MRI) has been widely used for the diagnosis of meniscal tears, but its diagnostic accuracy, depending on the type and location, has not been well investigated. We aimed to evaluate the diagnostic accuracy of MRI by comparing MRI and arthroscopic findings. Preoperative 3.0-T MRI and arthroscopic findings from 2005 to 2018 were reviewed to determine the presence, type, and location of meniscus tears. In addition, subgroup analysis was performed according to anterior cruciate ligament (ACL) injury. The exclusion criteria were as follows: (1) Inflammatory arthritis, (2) other ligament injuries, (3) inability to classify meniscal tears due to degenerative arthritis, (4) over 90 days from MRI to surgery, and (5) incomplete data. Of the 2998 eligible patients, 544 were finally included. The sensitivity and specificity of MRI in determining medial and lateral meniscus tears were 91.8% and 79.9%, and 80.8% and 85.4%, respectively. The accuracy of MRI in the ACL-injured group was lower than that in the ACL-intact group (medial meniscus: 81.7% vs. 88.1%, <italic>p</italic> = 0.041; 72.9% vs. lateral meniscus: 88.0%, <italic>p</italic> &lt; 0.001). MRI accuracy was low for the longitudinal tears of the posterior horn of the medial meniscus in the ACL-injured group. MRI could be a diagnostic tool for meniscus tears, but has limited accuracy in their classification of the type and location. Hence, care should be taken during arthroscopic assessment of ACL-injured patients due to low diagnostic accuracy of preoperative MRI.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>meniscus tear</kwd>
+        <kwd>magnetic resonance image</kwd>
+        <kwd>accuracy</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-jcm-1063296" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Meniscus tears are clinically important due to the role of the meniscus in load distribution, shock absorption, and joint stabilization [<xref ref-type="bibr" rid="B1-jcm-1063296">1</xref>,<xref ref-type="bibr" rid="B2-jcm-1063296">2</xref>]. Meniscus root tear or meniscectomy increases joint contact pressure [<xref ref-type="bibr" rid="B3-jcm-1063296">3</xref>], which can lead to articular cartilage degeneration over time [<xref ref-type="bibr" rid="B4-jcm-1063296">4</xref>,<xref ref-type="bibr" rid="B5-jcm-1063296">5</xref>,<xref ref-type="bibr" rid="B6-jcm-1063296">6</xref>]. The treatment of meniscal tears needs to be determined according to the location and type of meniscal tears. Therefore, correct identification of a meniscal tear is crucial to its subsequent management.</p>
+      <p>Magnetic resonance imaging (MRI) has been commonly used to detect meniscal tears in clinical practice. Despite the evolution of MRI in detecting meniscal tears, several lesions in meniscal tears are missed, given the wide variability in the accuracy of MRI [<xref ref-type="bibr" rid="B7-jcm-1063296">7</xref>,<xref ref-type="bibr" rid="B8-jcm-1063296">8</xref>,<xref ref-type="bibr" rid="B9-jcm-1063296">9</xref>,<xref ref-type="bibr" rid="B10-jcm-1063296">10</xref>,<xref ref-type="bibr" rid="B11-jcm-1063296">11</xref>]. In particular, the sensitivity of MRI in the detection of ramp lesions, meniscocapsular separation, or peripheral longitudinal tear of the posterior horn of the medial meniscus in the anterior cruciate ligament (ACL)-injured knee was relatively low, approximately 65.1% [<xref ref-type="bibr" rid="B11-jcm-1063296">11</xref>,<xref ref-type="bibr" rid="B12-jcm-1063296">12</xref>]. In addition, a high rate (40&#x2013;67.7%) of missed lateral meniscus posterior root tears on MRI has been reported [<xref ref-type="bibr" rid="B8-jcm-1063296">8</xref>,<xref ref-type="bibr" rid="B13-jcm-1063296">13</xref>]. However, previous studies evaluated a relatively small number of patients who underwent ACL reconstruction [<xref ref-type="bibr" rid="B8-jcm-1063296">8</xref>,<xref ref-type="bibr" rid="B12-jcm-1063296">12</xref>]. In addition, very few studies have evaluated the accuracy of MRI in the detection of meniscal tears according to type and location.</p>
+      <p>Therefore, we sought to evaluate the diagnostic accuracy of MRI in detecting meniscal tears according to type and location by comparing MRI and arthroscopic findings. In addition, the accuracy of MRI was compared based on the presence or absence of ACL injury.</p>
+    </sec>
+    <sec id="sec2-jcm-1063296">
+      <title>2. Materials and Methods</title>
+      <p>This was a retrospective cohort study of 2998 patients who had undergone arthroscopic surgery between November 2005 and August 2018. The indications for arthroscopy were medial or lateral meniscal tears with/without ACL rupture on MRI. Confirmative diagnosis of meniscal lesions were made using the arthroscopic findings according to the location and classification of the International Society of Arthroscopy, Knee Surgery, and Orthopedic Sports Medicine (ISAKOS) [<xref ref-type="bibr" rid="B14-jcm-1063296">14</xref>]. The ACL rupture was assessed by MRI findings, clinical examination, stress radiography and associated symptoms and functional disability. The exclusion criteria were as follows: (1) Inflammatory arthritis, such as gout, infection, rheumatoid arthritis, etc. (177 patients), (2) previous history of surgery on the knee or other ligament injuries (601 patients), (3) inability to classify meniscal tears due to degenerative arthritis, (288 patients), (4) over 90 days from MRI to surgery (371 patients), and (5) incomplete clinical data or arthroscopic findings (1018 patients with insufficient information about the type and location of meniscus tears). After applying all these criteria, 543 patients (379 male and 164 female) were finally included in this study (<xref ref-type="fig" rid="jcm-1063296-f001">Figure 1</xref>). The study was approved by the Institutional Review Board at our hospital and was performed in accordance with the ethical standards of the 1964 Declaration of Helsinki.</p>
+      <sec id="sec2dot1-jcm-1063296">
+        <title>2.1. MRI Evaluation</title>
+        <p>MRI examinations were performed on a 3.0-T scanner (Achieva, Philips, Amsterdam, Netherlands) with an eight-channel knee coil (HD time of repetition [TR] knee array). Coronal and sagittal images were acquired using turbo spin-echo (TSE) proton density-weighted imaging (PDWI), TSE fat-saturated T2-weighted imaging (T2WI), T1-weighted sequence, axial imaging using TSE PDWI, and ACL oblique imaging using TSE fat-saturated T2WI. The TR range and time of echo values varied (1500&#x2013;3000/10&#x2013;30 ms for PDWI and 5000&#x2013;6000/100 ms for T2WI). Other imaging parameters used were as follows: Field of view, 16 cm; slice thickness, 1.5 mm with no space. The minimal tear of meniscus was defined using the &#x201C;two-slice-touch&#x201D; rule [<xref ref-type="bibr" rid="B15-jcm-1063296">15</xref>].</p>
+        <p>The location and type of meniscal tear were evaluated using the ISAKOS classification [<xref ref-type="bibr" rid="B14-jcm-1063296">14</xref>]. The locations of meniscal tears were classified as follows: (1) Anterior horn, (2) mid-body, (3) posterior horn, and (4) involvement of more than two compartments. The types of meniscal tears were categorized as follows: (1) Longitudinal-vertical tear including bucket handle tear, (2) horizontal tear, (3) radial tear, (4) vertical flap tear, (5) horizontal flap tear, and (6) complex tear. The root tears of meniscus were classified as complex tear, due to no category for root tear in ISAKOS classification. Only the grade III a horizontal tear on MRI was included as horizontal tear on MRI.</p>
+      </sec>
+      <sec id="sec2dot2-jcm-1063296">
+        <title>2.2. Arthroscopic Evaluation</title>
+        <p>All surgical procedures were performed using the same technique in our institution [<xref ref-type="bibr" rid="B16-jcm-1063296">16</xref>,<xref ref-type="bibr" rid="B17-jcm-1063296">17</xref>,<xref ref-type="bibr" rid="B18-jcm-1063296">18</xref>,<xref ref-type="bibr" rid="B19-jcm-1063296">19</xref>]. Systematic arthroscopic evaluations were performed using 30&#xB0; and 70&#xB0; arthroscopes with/without ACL reconstruction. First, standard anterolateral portals were used for routine evaluation; then, the posteromedial and posterolateral compartments of the knee were visualized through the intercondylar notch using 30&#xB0; and 70&#xB0; arthroscopes [<xref ref-type="bibr" rid="B16-jcm-1063296">16</xref>,<xref ref-type="bibr" rid="B17-jcm-1063296">17</xref>]. The type and location of meniscal tears were assessed by probing in accordance with the ISAKOS classification [<xref ref-type="bibr" rid="B14-jcm-1063296">14</xref>]. After systematic evaluations, the meniscus tears were treated (repair or meniscectomy) with or without ACL reconstruction. Data of the type and location of meniscal tears were collected from arthroscopic surgical report form referring to arthroscopic images.</p>
+      </sec>
+      <sec id="sec2dot3-jcm-1063296">
+        <title>2.3. Statistical Analysis</title>
+        <p>The results were analyzed using statistical software (SPSS 19.0; Chicago, IL, USA), and power analyses were performed using the G*power program (ver. 3.1.5). To compare the values between groups, the data were analyzed by the Mann-Whitney <italic>U</italic>-test, independent t-test, paired t-test, chi-squared test, or Wilcoxon signed-rank test according to the results of the Shapiro-Wilk test used to test the normality of their distribution. Arthroscopic findings were used as the reference standard. The sensitivity, specificity, positive predicted value (PPV), and negative predicted value (NPV) were calculated and compared between groups using the Cochran-Mantel-Haenszel test according to the ISAKOS classification and location of meniscus tear. Subgroup analysis was performed according to the presence of ACL injury with instability more than grade 2.</p>
+        <p>Post-hoc power analysis was performed using a &#x3C7;<sup>2</sup> goodness-of-fit test with an &#x3B1; error of 5% to detect the differences in the incidence of type and location of tear between groups. Based on these calculations, the power of all the significant variables in this study was over 0.95, indicating robustness. Statistical significance was set at <italic>p</italic> &lt; 0.05. All radiographic or MRI studies were reviewed by two musculoskeletal radiologists, who had more than 3 years of experience, with an interval of 2 weeks. The inter- and intra-observer reliability of the measurements was assessed using the kappa value for agreement or the intraclass correlation coefficient (ICC) for consistency.</p>
+      </sec>
+    </sec>
+    <sec id="sec3-jcm-1063296" sec-type="results">
+      <title>3. Results</title>
+      <p>Of the 543 patients, 192 (35.4%) were had confirmed ACL injury on arthroscopy. In total, there were 261 cases of medial meniscus tear (48.1%) and 271 cases of lateral meniscus tear (49.9%) on arthroscopy. However, on MRI, there were 302 cases of medial meniscus tear (55.6%) and 258 cases of lateral meniscus tear (47.5%). The details of the patients&#x2019; demographic data are summarized in <xref ref-type="table" rid="jcm-1063296-t001">Table 1</xref>. The overall type and location of meniscal tears are shown in <xref ref-type="fig" rid="jcm-1063296-f002">Figure 2</xref> and <xref ref-type="fig" rid="jcm-1063296-f003">Figure 3</xref>.</p>
+      <sec id="sec3dot1-jcm-1063296">
+        <title>3.1. Diagnostic Accuracy of MRI for Meniscus Tears</title>
+        <p>The sensitivity and specificity of preoperative MRI in determining medial meniscus tears were 91.82% and 79.93%, respectively, with an accuracy of 85.8%. The PPV and NPV were 81.79% and 90.87%, respectively, indicating that preoperative MRI had better sensitivity and NPV in the diagnosis of medial meniscus tears than specificity or PPV. The kappa value between MRI and arthroscopic findings was 0.717, indicating good agreement (<italic>p</italic> = 0.03). The sensitivity and specificity of preoperative MRI in determining lateral meniscus tear were 80.74% and 85.35% with 83.1% accuracy. The PPV and NPV were 84.49% and 81.75%, respectively, indicating that preoperative MRI had better specificity and PPV in the diagnosis of lateral meniscus tear than sensitivity or NPV. The kappa value between MRI and arthroscopic findings was 0.661, indicating moderate agreement (<italic>p</italic> = 0.032). The sensitivity and NPV of preoperative MRI were higher in the diagnosis of medial meniscus tear than in diagnosis of lateral meniscus tear, but the specificity and PPV were higher in the diagnosis of the latter than in the diagnosis of the former.</p>
+      </sec>
+      <sec id="sec3dot2-jcm-1063296" sec-type="subjects">
+        <title>3.2. Location and Type of Meniscus Tears in ACL-Injured Patients</title>
+        <p>The overall sensitivity and specificity of MRI in diagnosing medial meniscus tears were found to be 87.9% and 75.3%, respectively, with an accuracy of 81.7%. The PPV and NPV were 79.1% and 85.4%, respectively. However, the sensitivity of detecting all types of medial meniscus tears was 33.3% to 76.5%, which might be fair to moderate, although the specificity and accuracy were found to be 79.2% and 99.5%, respectively (kappa value = 0.511, <italic>p</italic> = 0.045; Tables 2 and S1). The accuracy of MRI in determining the location of medial meniscus tear was found to range from 78.1% to 98.4%. (kappa value = 0.519, <italic>p</italic> = 0.048; Tables 2 and S2).</p>
+        <p>The overall diagnostic values of MRI in determining lateral meniscal tears were 67.0% sensitivity, 79.4% specificity, 77.9% PPV, 68.9% NPV, and 72.9% accuracy. The sensitivity of the complex tear was as high as 89.9% (kappa value = 0.408, <italic>p</italic> = 0.048; <named-content content-type="color:red">Tables</named-content> 3 and S3). The accuracy of MRI in determining the location of the lateral meniscus tear was 76.6&#x2013;96.4%. (kappa = 0.396, <italic>p</italic> = 0.05; <named-content content-type="color:red">Tables</named-content> 3 and S4).</p>
+      </sec>
+      <sec id="sec3dot3-jcm-1063296" sec-type="subjects">
+        <title>3.3. Location and Type of Meniscus Tears in ACL-Intact Patients</title>
+        <p>The overall diagnostic values of medial meniscal tears on MRI were 96.3% sensitivity, 80.9% specificity, 81.3% PPV, 96.2% NPV, and 88.1% accuracy. However, the sensitivity of MRI in identifying all types of medial meniscus tears was 38.5% to 69.2%, which is fair&#x2013;moderate, although the specificity and accuracy were 83.5% and 98.2%, respectively (kappa value = 0.573, <italic>p</italic> = 0.033; <named-content content-type="color:red">Tables</named-content> 4 and S5). The overall accuracy of MRI in determining the location of medial meniscus tears was 82.6&#x2013;98.3% (kappa value = 0.548, <italic>p</italic> = 0.033; <named-content content-type="color:red">Tables</named-content> 4 and S6).</p>
+        <p>The overall diagnostic values of MRI in determining lateral meniscal tears were 94.1% sensitivity, 82.3% specificity, 83.3% PPV, 93.7% NPV, and 88.0% accuracy. However, the sensitivity of all types of lateral meniscus tears was 44.8&#x2013;75.0%, which is fair&#x2013;moderate, while the specificity and accuracy were found as 83.5% to 99.7% (kappa value = 0.568, <italic>p</italic> = 0.032; Tables 5 and S7). The overall accuracy of MRI in determining the location of lateral meniscus tears was 87.5&#x2013;94.0% (kappa = 0.582, <italic>p</italic> = 0.032; Tables 5 and S8).</p>
+      </sec>
+      <sec id="sec3dot4-jcm-1063296" sec-type="subjects">
+        <title>3.4. Comparison of the Type and Location of Meniscus Tears between ACL-Injured and ACL-Intact Patients</title>
+        <p>For the medial meniscal tears, the accuracy of MRI in patients with ACL injury was found to be lower than that in ACL-intact patients (81.7% vs. 88.1%, <italic>p</italic> = 0.041). There were differences in the rate of tear type (<italic>p</italic> &lt; 0.001), but not in the location of tears between ACL-injured and ACL-intact patients (<italic>p</italic> = 0.254). In the ACL-intact patients, the most frequent type of tear was complex tears (60.5%, 98/162), but in ACL-injured patients, longitudinal tears were the most frequent ones (56.6%, 56/99). The posterior horn and extension to other compartments (more than two compartments) were the most common locations, regardless of ACL injury.</p>
+        <p>For lateral meniscal tears, the accuracy of MRI in patients with ACL injury was also found to be lower than that in ACL-intact patients (72.9% vs. 88.0%, <italic>p</italic> &lt; 0.001). There were differences in the tear location (<italic>p</italic> &lt; 0.001), but not in the type of tears between these patients (<italic>p</italic> = 0.291). In the ACL-intact patients, the most frequently involved types were the one with tears in more than two compartments (47.6%, 81/170) and mid-body tears (32.4%, 55/170), but in ACL-injured patients, the posterior horn was the most frequently involved compartment (52.5%, 53/101).</p>
+        <p>In brief, the overall accuracy of MRI in determining medial and lateral meniscal tears in patients with ACL injury was lower than that in patients with intact ACL. Moreover, although the accuracy of MRI in determining the specific location and type of lateral and medial meniscal tears in the ACL-intact or injured group was found to be similar, its accuracy in determining longitudinal tears or posterior horn tears of the medial meniscus in ACL-injured patients was lower than the other values (<xref ref-type="table" rid="jcm-1063296-t002">Table 2</xref> and <xref ref-type="table" rid="jcm-1063296-t003">Table 3</xref>). The intra-observer reliability (ICC) of MRI ranged from 0.683 to 0.787 (<italic>p</italic> &lt; 0.05), and the interobserver reliability ranged from 0.511 to 0.702 (<italic>p</italic> &lt; 0.05).</p>
+      </sec>
+    </sec>
+    <sec id="sec4-jcm-1063296" sec-type="discussion">
+      <title>4. Discussion</title>
+      <p>The most important finding of this study is that the overall diagnostic values of MRI for meniscus tears were acceptable with an accuracy of 85.8%, but the specific types and location of meniscus tears were difficult to determine using MRI regardless of ACL injury. Moreover, the overall diagnostic values of MRI in determining medial and lateral meniscal tears was lower in ACL-injured patients than in ACL-intact patients, but the specific location and type of tears were found to be similar. In the case of medial meniscus, the most frequently involved compartment was the posterior horn, including its extension (more than two compartments), regardless of ACL injury. Longitudinal tear of the medial meniscus was the most frequent type of tear in ACL-injured patients, but complex tear was the most frequent in ACL-intact patients. On the other hand, in the case of the lateral meniscus, complex and longitudinal tears were the most frequent type regardless of ACL injury. The posterior horn and its extension were the most frequent locations of tears in ACL-injured patients, but the mid-body and its extension were the most frequent locations of tears in ACL-intact patients.</p>
+      <p>The overall diagnostic values of MRI in this study were comparable to those reported in previous studies, indicating that it could be an acceptable diagnostic tool for meniscal tears [<xref ref-type="bibr" rid="B14-jcm-1063296">14</xref>,<xref ref-type="bibr" rid="B20-jcm-1063296">20</xref>,<xref ref-type="bibr" rid="B21-jcm-1063296">21</xref>,<xref ref-type="bibr" rid="B22-jcm-1063296">22</xref>]. However, the diagnostic values of MRI in determining the specific type and location of meniscal tears were found to be lower than the overall values regardless of ACL injury. In the study by Anderson et al., the interobserver reliability of MRI values in determining the specific type and location of meniscal tears were moderate to substantial, ranging from 0.46 to 0.72, even with arthroscopic findings. Dunn et al. [<xref ref-type="bibr" rid="B23-jcm-1063296">23</xref>] also reported moderate to substantial agreement between arthroscopy and MRI findings in classifying the type and location of meniscal tears (kappa: 0.61&#x2013;0.63). In another previous study that assessed the correlation of meniscal tears arthroscopy and MRI findings using the ISAKOS classification, the kappa values showed moderate agreement [<xref ref-type="bibr" rid="B24-jcm-1063296">24</xref>]. The results of this study were similar to those of previous studies in terms of agreements and diagnostic values, including sensitivity, specificity, and accuracy [<xref ref-type="bibr" rid="B14-jcm-1063296">14</xref>,<xref ref-type="bibr" rid="B21-jcm-1063296">21</xref>,<xref ref-type="bibr" rid="B22-jcm-1063296">22</xref>,<xref ref-type="bibr" rid="B23-jcm-1063296">23</xref>,<xref ref-type="bibr" rid="B24-jcm-1063296">24</xref>]. Moreover, lower diagnostic values and agreements were found in patients with ACL injury than in patients without ACL injury. Thus, MRI could be used as an acceptable diagnostic tool to detect the presence of meniscus tear, but not for detailed classification of the type and location of meniscus tears using the present ISAKOS criteria regardless of ACL injury.</p>
+      <p>There were differences in the rate of type and location of meniscal tears between ACL-injured and ACL-intact patients. For the medial meniscus, longitudinal tear on the posterior horn, which was called as &#x201C;ramp lesion&#x201D;, was the most frequent tear in ACL-injured patients, while complex tear on the posterior horn was the most frequent tear in ACL-intact patients. Because of the rotational injury mechanism involved in acute ACL injury, known as the contrecoup mechanism, the longitudinal tear in the posterior horn of the medial meniscus might be induced along with the increased stress on the meniscocapsular junction [<xref ref-type="bibr" rid="B25-jcm-1063296">25</xref>,<xref ref-type="bibr" rid="B26-jcm-1063296">26</xref>,<xref ref-type="bibr" rid="B27-jcm-1063296">27</xref>]. Longitudinal tear or complex tear on the posterior horn was the most frequent lateral meniscus tear in patients with ACL injury. An axial loading with increased posterior sliding of the lateral femoral condyle, the so-called pivot shift mechanism, could induce the engagement of the lateral meniscus into the femoral condyle, similar to a bump against the posterior tibia [<xref ref-type="bibr" rid="B27-jcm-1063296">27</xref>,<xref ref-type="bibr" rid="B28-jcm-1063296">28</xref>,<xref ref-type="bibr" rid="B29-jcm-1063296">29</xref>,<xref ref-type="bibr" rid="B30-jcm-1063296">30</xref>]. Therefore, the tear on the posterior horn of the lateral meniscus was found more frequently in ACL-injured patients than in ACL-intact patients in this study. In brief, the type and location of meniscal tears between ACL-injured and ACL-intact patients were different as were the diagnostic values of MRI.</p>
+      <p>This study has several limitations. First, this was a retrospective study. Since incomplete data were excluded from this study, there might be a difference in the rates of types or locations of meniscal tears. Second, it is difficult to determine whether poor diagnostic values of specific type and location of meniscal tears can be attributed to the MRI process itself or the ISAKOS criteria. Because the overall diagnostic values of MRI were found to be good, similar to those in previous studies [<xref ref-type="bibr" rid="B20-jcm-1063296">20</xref>,<xref ref-type="bibr" rid="B21-jcm-1063296">21</xref>,<xref ref-type="bibr" rid="B22-jcm-1063296">22</xref>,<xref ref-type="bibr" rid="B31-jcm-1063296">31</xref>], the accuracy of the ISAKOS classification may be debatable. Third, in terms of specific type and location, relatively small numbers of meniscal tears were included. Furthermore, some types of meniscal tears, such as bucket handle tears or root tears, could not be distinguished in this study. Fourth, although the same surgical procedures were applied, some bias may have been introduced by the different surgeons in our institution. Furthermore, the diagnostic values might be different if the results of clinical examinations were analyzed simultaneously [<xref ref-type="bibr" rid="B32-jcm-1063296">32</xref>,<xref ref-type="bibr" rid="B33-jcm-1063296">33</xref>]. The reliability of arthroscopic findings was not assessed because arthroscopic findings were collected from arthroscopic surgical report form referring to arthroscopic images. However, all arthroscopic surgeries were performed by experienced surgeons of knee division. Therefore, we believe that reports on arthroscopic surgical report form are reliable. Fifth, there might be differences of diagnostic values according to the age, mechanism of meniscus tears or time from MRI to surgery, although it could not be evaluated in this study. This issue would be another good theme for another study about meniscus tear in ACL injury.</p>
+    </sec>
+    <sec id="sec5-jcm-1063296" sec-type="conclusions">
+      <title>5. Conclusions</title>
+      <p>Preoperative MRI could be used as a diagnostic tool to identify for meniscus tears, but it is not capable of classifying the type and location of meniscus tears. Moreover, there were differences in the type and location of meniscus tears between ACL-injured and ACL-intact patients; hence, care should be taken during arthroscopic assessment of patients with ACL injury.</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-jcm-1063296">
+        <title>Supplementary Materials</title>
+        <p>The following are available online at <uri>www.mdpi.com/xxx/s1</uri>, Table S1: Type of medial meniscus tear in ACL injured patients, Table S2: Location of medial meniscus tears in ACL injured patients, Table S3: Type of lateral meniscus tear in ACL injured patients, Table S4: LM tear involved location in ACL injured patients; Table S5: Type of medial meniscus tear in ACL intact patients, Table S6: MM tear involved location in ACL intact patients, Table S7: Type of lateral meniscus tear in ACL intact patients, Tbale S8: LM tear involved location in ACL intact patients.</p>
+        <supplementary-material xmlns:xlink="http://www.w3.org/1999/xlink" id="jcm-1063296-s001" xlink:href="jcm-1063296-s001.pdf"/>
+      </app>
+    </app-group>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Conceptualization, S.H.K., H.-J.L., and Y.-B.P.; methodology, S.H.K., H.-J.L., and Y.-B.P.; validation, S.H.K. and Y.-B.P.; formal analysis, S.H.K., Y.-H.J., and K.-J.C.; investigation, S.H.K. and Y.-B.P.; resources, S.H.K., Y.-H.J., and K.-J.C.; data curation, S.H.K., Y.-H.J., and K.-J.C.; writing&#x2014;original draft preparation, S.H.K., H.-J.L., K.-J.C., and Y.-B.P.; writing&#x2014;review and editing, S.H.K., Y.-H.J., and Y.-B.P.; visualization, K.-J.C. and Y.-B.P.; supervision, Y.-B.P. All authors have read and agreed to the published version of the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Funding</title>
+      <p>This work was supported by the Korea Medical Device Development Fund grant funded by the Korea government (the Ministry of Science and ICT, the Ministry of Trade, Industry and Energy, the Ministry of Health &amp; Welfare, the Ministry of Food and Drug Safety) (NTIS Number: 9991006921).</p>
+    </notes>
+    <notes>
+      <title>Institutional Review Board Statement</title>
+      <p>The study was conducted according to the guidelines of the Declaration of Helsinki, and approved by the Institutional Review Board (Chung-Ang University Hospital IRB No.1904-011-16263).</p>
+    </notes>
+    <notes>
+      <title>Informed Consent Statement</title>
+      <p>Patient consent was waived due to retrospective chart review.</p>
+    </notes>
+    <notes>
+      <title>Data Availability Statement</title>
+      <p>The data presented in this study are available on request from the corresponding author. The data are not publicly available due to Personal Information Protection.</p>
+    </notes>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This work was supported by the Korea Medical Device Development Fund grant funded by the Korea government (the Ministry of Science and ICT, the Ministry of Trade, Industry and Energy, the Ministry of Health &amp; Welfare, the Ministry of Food and Drug Safety) (NTIS Number: 9991006921).</p>
+    </ack>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-jcm-1063296">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Musahl</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Citak</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>O&#x2019;Loughlin</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Choi</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Bedi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Pearle</surname>
+              <given-names>A.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Effect of Medial Versus Lateral Meniscectomy on the Stability of the Anterior Cruciate Ligament-Deficient Knee</article-title>
+          <source>Am. J. Sports Med.</source>
+          <year>2010</year>
+          <volume>38</volume>
+          <fpage>1591</fpage>
+          <lpage>1597</lpage>
+          <pub-id pub-id-type="doi">10.1177/0363546510364402</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2-jcm-1063296">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>D.H.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>G.C.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>H.H.</given-names>
+            </name>
+            <name>
+              <surname>Cha</surname>
+              <given-names>D.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Correlation between meniscal extrusion and symptom duration, alignment, and arthritic changes in medial meniscus posterior root tear: Research article</article-title>
+          <source>Knee Surg. Relat. Res.</source>
+          <year>2020</year>
+          <volume>32</volume>
+          <fpage>1</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1186/s43019-019-0019-x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3-jcm-1063296">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Allaire</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Muriuki</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gilbertson</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Harner</surname>
+              <given-names>C.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biomechanical Consequences of a Tear of the Posterior Root of the Medial Meniscus: Similar to Total Meniscectomy</article-title>
+          <source>JBJS</source>
+          <year>2008</year>
+          <volume>90</volume>
+          <fpage>1922</fpage>
+          <lpage>1931</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B4-jcm-1063296">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bae</surname>
+              <given-names>J.Y.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>K.S.</given-names>
+            </name>
+            <name>
+              <surname>Seon</surname>
+              <given-names>J.K.</given-names>
+            </name>
+            <name>
+              <surname>Kwak</surname>
+              <given-names>D.-S.</given-names>
+            </name>
+            <name>
+              <surname>Jeon</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>E.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biomechanical analysis of the effects of medial meniscectomy on degenerative osteoarthritis</article-title>
+          <source>Med. Biol. Eng. Comput.</source>
+          <year>2011</year>
+          <volume>50</volume>
+          <fpage>53</fpage>
+          <lpage>60</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11517-011-0840-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5-jcm-1063296">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fairbank</surname>
+              <given-names>T.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Knee Joint Changes After Meniscectomy</article-title>
+          <source>J. Bone Jt. Surg. Br. Vol.</source>
+          <year>1948</year>
+          <volume>30</volume>
+          <fpage>664</fpage>
+          <lpage>670</lpage>
+          <pub-id pub-id-type="doi">10.1302/0301-620x.30b4.664</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6-jcm-1063296">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Bin</surname>
+              <given-names>S.-I.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>J.-M.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>B.-S.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>T.-H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Progression of radiographic osteoarthritis after partial meniscectomy in degenerative medial meniscal posterior root tears was greater in varus- than in neutral-aligned knees: A minimum 5-year follow-up</article-title>
+          <source>Knee Surg. Sports Traumatol. Arthrosc.</source>
+          <year>2020</year>
+          <volume>28</volume>
+          <fpage>3443</fpage>
+          <lpage>3449</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00167-020-05905-w</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7-jcm-1063296">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sharifah</surname>
+              <given-names>M.I.A.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>C.L.</given-names>
+            </name>
+            <name>
+              <surname>Suraya</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Johan</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Syed</surname>
+              <given-names>A.F.S.K.</given-names>
+            </name>
+            <name>
+              <surname>Tan</surname>
+              <given-names>S.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Accuracy of MRI in the diagnosis of meniscal tears in patients with chronic ACL tears</article-title>
+          <source>Knee Surg. Sports Traumatol. Arthrosc.</source>
+          <year>2013</year>
+          <volume>23</volume>
+          <fpage>826</fpage>
+          <lpage>830</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00167-013-2766-7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8-jcm-1063296">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krych</surname>
+              <given-names>A.J.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>I.T.</given-names>
+            </name>
+            <name>
+              <surname>Desai</surname>
+              <given-names>V.S.</given-names>
+            </name>
+            <name>
+              <surname>Murthy</surname>
+              <given-names>N.S.</given-names>
+            </name>
+            <name>
+              <surname>Collins</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Saris</surname>
+              <given-names>D.B.</given-names>
+            </name>
+            <name>
+              <surname>Levy</surname>
+              <given-names>B.A.</given-names>
+            </name>
+            <name>
+              <surname>Stuart</surname>
+              <given-names>M.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>High Rate of Missed Lateral Meniscus Posterior Root Tears on Preoperative Magnetic Resonance Imaging</article-title>
+          <source>Orthop. J. Sports Med.</source>
+          <year>2018</year>
+          <volume>6</volume>
+          <pub-id pub-id-type="doi">10.1177/2325967118765722</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9-jcm-1063296">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>De Smet</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Graf</surname>
+              <given-names>B.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Meniscal tears missed on MR imaging: Relationship to meniscal tear patterns and anterior cruciate ligament tears</article-title>
+          <source>Am. J. Roentgenol.</source>
+          <year>1994</year>
+          <volume>162</volume>
+          <fpage>905</fpage>
+          <lpage>911</lpage>
+          <pub-id pub-id-type="doi">10.2214/ajr.162.4.8141016</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10-jcm-1063296">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>De Smet</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Mukherjee</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Clinical, MRI, and Arthroscopic Findings Associated with Failure to Diagnose a Lateral Meniscal Tear on Knee MRI</article-title>
+          <source>Am. J. Roentgenol.</source>
+          <year>2008</year>
+          <volume>190</volume>
+          <fpage>22</fpage>
+          <lpage>26</lpage>
+          <pub-id pub-id-type="doi">10.2214/ajr.07.2611</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11-jcm-1063296">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bumberger</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Koller</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Hofbauer</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Tiefenboeck</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Hajdu</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Windhager</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Waldstein</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ramp lesions are frequently missed in ACL-deficient knees and should be repaired in case of instability</article-title>
+          <source>Knee Surg. Sports Traumatol. Arthrosc.</source>
+          <year>2020</year>
+          <volume>28</volume>
+          <fpage>840</fpage>
+          <lpage>854</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00167-019-05521-3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12-jcm-1063296">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moreira</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Almeida</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lunet</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Gutierres</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ramp lesions: A systematic review of MRI diagnostic accuracy and treatment efficacy</article-title>
+          <source>J. Exp. Orthop.</source>
+          <year>2020</year>
+          <volume>7</volume>
+          <fpage>1</fpage>
+          <lpage>14</lpage>
+          <pub-id pub-id-type="doi">10.1186/s40634-020-00287-x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13-jcm-1063296">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Laprade</surname>
+              <given-names>R.F.</given-names>
+            </name>
+            <name>
+              <surname>Ho</surname>
+              <given-names>C.P.</given-names>
+            </name>
+            <name>
+              <surname>James</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Crespo</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Laprade</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Matheny</surname>
+              <given-names>L.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Diagnostic accuracy of 3</article-title>
+          <source>0 T magnetic resonance imaging for the detection of meniscus posterior root pathology. Knee Surg. Sports Traumatol. Arthrosc.</source>
+          <year>2014</year>
+          <volume>23</volume>
+          <fpage>152</fpage>
+          <lpage>157</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00167-014-3395-5</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14-jcm-1063296">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Anderson</surname>
+              <given-names>A.F.</given-names>
+            </name>
+            <name>
+              <surname>Irrgang</surname>
+              <given-names>J.J.</given-names>
+            </name>
+            <name>
+              <surname>Dunn</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Beaufils</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Cohen</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Cole</surname>
+              <given-names>B.J.</given-names>
+            </name>
+            <name>
+              <surname>Coolican</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ferretti</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Glenn</surname>
+              <given-names>R.E.</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>R.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Interobserver Reliability of the International Society of Arthroscopy, Knee Surgery and Orthopaedic Sports Medicine (ISAKOS) Classification of Meniscal Tears</article-title>
+          <source>Am. J. Sports Med.</source>
+          <year>2011</year>
+          <volume>39</volume>
+          <fpage>926</fpage>
+          <lpage>932</lpage>
+          <pub-id pub-id-type="doi">10.1177/0363546511400533</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15-jcm-1063296">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>De Smet</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Tuite</surname>
+              <given-names>M.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Use of the &#x201C;Two-Slice-Touch&#x201D; Rule for the MRI Diagnosis of Meniscal Tears</article-title>
+          <source>Am. J. Roentgenol.</source>
+          <year>2006</year>
+          <volume>187</volume>
+          <fpage>911</fpage>
+          <lpage>914</lpage>
+          <pub-id pub-id-type="doi">10.2214/ajr.05.1354</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16-jcm-1063296">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Seo</surname>
+              <given-names>H.J.</given-names>
+            </name>
+            <name>
+              <surname>Seo</surname>
+              <given-names>D.W.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>K.-I.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>S.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Analysis of Risk Factors for Ramp Lesions Associated with Anterior Cruciate Ligament Injury</article-title>
+          <source>Am. J. Sports Med.</source>
+          <year>2020</year>
+          <volume>48</volume>
+          <fpage>1673</fpage>
+          <lpage>1681</lpage>
+          <pub-id pub-id-type="doi">10.1177/0363546520918207</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17-jcm-1063296">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>K.-I.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>J.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Diagnostic Accuracy of Sequential Arthroscopic Approach for Ramp Lesions of the Posterior Horn of the Medial Meniscus in Anterior Cruciate Ligament&#x2013;Deficient Knee</article-title>
+          <source>Arthrosc. J. Arthrosc. Relat. Surg.</source>
+          <year>2018</year>
+          <volume>34</volume>
+          <fpage>1582</fpage>
+          <lpage>1589</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.arthro.2017.12.008</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18-jcm-1063296">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>H.-J.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>Y.-B.</given-names>
+            </name>
+            <name>
+              <surname>Jeong</surname>
+              <given-names>H.-S.</given-names>
+            </name>
+            <name>
+              <surname>Ha</surname>
+              <given-names>C.-W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Anterior Cruciate Ligament Tibial Footprint Size as Measured on Magnetic Resonance Imaging: Does It Reliably Predict Actual Size?</article-title>
+          <source>Am. J. Sports Med.</source>
+          <year>2018</year>
+          <volume>48</volume>
+          <fpage>1877</fpage>
+          <lpage>1884</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B19-jcm-1063296">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>Y.-B.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>D.-H.</given-names>
+            </name>
+            <name>
+              <surname>Pujol</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>H.-J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Predictive factors for failure of anterior cruciate ligament reconstruction via the trans-tibial technique</article-title>
+          <source>Arch. Orthop. Trauma Surg.</source>
+          <year>2020</year>
+          <volume>140</volume>
+          <fpage>1</fpage>
+          <lpage>13</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00402-020-03483-7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20-jcm-1063296">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rose</surname>
+              <given-names>N.E.</given-names>
+            </name>
+            <name>
+              <surname>Gold</surname>
+              <given-names>S.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>A comparison of accuracy between clinical examination and magnetic resonance imaging in the diagnosis of meniscal and anterior cruciate ligament tears</article-title>
+          <source>Arthrosc. J. Arthrosc. Relat. Surg.</source>
+          <year>1996</year>
+          <volume>12</volume>
+          <fpage>398</fpage>
+          <lpage>405</lpage>
+          <pub-id pub-id-type="doi">10.1016/s0749-8063(96)90032-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21-jcm-1063296">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jung</surname>
+              <given-names>J.Y.</given-names>
+            </name>
+            <name>
+              <surname>Choi</surname>
+              <given-names>S.-H.</given-names>
+            </name>
+            <name>
+              <surname>Ahn</surname>
+              <given-names>J.H.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>S.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>MRI findings with arthroscopic correlation for tear of discoid lateral meniscus: Comparison between children and adults</article-title>
+          <source>Acta Radiol.</source>
+          <year>2013</year>
+          <volume>54</volume>
+          <fpage>442</fpage>
+          <lpage>447</lpage>
+          <pub-id pub-id-type="doi">10.1177/0284185113475442</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22-jcm-1063296">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Crawford</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Walley</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Bridgman</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Maffulli</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Magnetic resonance imaging versus arthroscopy in the diagnosis of knee pathology, concentrating on meniscal lesions and ACL tears: A systematic review</article-title>
+          <source>Br. Med Bull.</source>
+          <year>2007</year>
+          <volume>84</volume>
+          <fpage>5</fpage>
+          <lpage>23</lpage>
+          <pub-id pub-id-type="doi">10.1093/bmb/ldm022</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23-jcm-1063296">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dunn</surname>
+              <given-names>W.R.</given-names>
+            </name>
+            <name>
+              <surname>Wolf</surname>
+              <given-names>B.R.</given-names>
+            </name>
+            <name>
+              <surname>Amendola</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Andrish</surname>
+              <given-names>J.T.</given-names>
+            </name>
+            <name>
+              <surname>Kaeding</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Marx</surname>
+              <given-names>R.G.</given-names>
+            </name>
+            <name>
+              <surname>Mccarty</surname>
+              <given-names>E.C.</given-names>
+            </name>
+            <name>
+              <surname>Parker</surname>
+              <given-names>R.D.</given-names>
+            </name>
+            <name>
+              <surname>Wright</surname>
+              <given-names>R.W.</given-names>
+            </name>
+            <name>
+              <surname>Spindler</surname>
+              <given-names>K.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Multirater Agreement of Arthroscopic Meniscal Lesions</article-title>
+          <source>Am. J. Sports Med.</source>
+          <year>2004</year>
+          <volume>32</volume>
+          <fpage>1937</fpage>
+          <lpage>1940</lpage>
+          <pub-id pub-id-type="doi">10.1177/0363546504264586</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24-jcm-1063296">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chhabra</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ashikyan</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Hlis</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Cai</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Planchard</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Xi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>McCrum</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Shah</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>The International Society of Arthroscopy, Knee Surgery and Orthopaedic Sports Medicine classification of knee meniscus tears: Three-dimensional MRI and arthroscopy correlation</article-title>
+          <source>Eur. Radiol.</source>
+          <year>2019</year>
+          <volume>29</volume>
+          <fpage>6372</fpage>
+          <lpage>6384</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00330-019-06220-w</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B25-jcm-1063296">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sonnery-Cottet</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Cruz</surname>
+              <given-names>R.S.</given-names>
+            </name>
+            <name>
+              <surname>Vieira</surname>
+              <given-names>T.D.</given-names>
+            </name>
+            <name>
+              <surname>Goes</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Saithna</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ramp Lesions</article-title>
+          <source>Clin. Sports Med.</source>
+          <year>2020</year>
+          <volume>39</volume>
+          <fpage>69</fpage>
+          <lpage>81</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.csm.2019.08.010</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26-jcm-1063296">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kent</surname>
+              <given-names>R.N.</given-names>
+            </name>
+            <name>
+              <surname>Amirtharaj</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Hardy</surname>
+              <given-names>B.M.</given-names>
+            </name>
+            <name>
+              <surname>Pearle</surname>
+              <given-names>A.D.</given-names>
+            </name>
+            <name>
+              <surname>Wickiewicz</surname>
+              <given-names>T.L.</given-names>
+            </name>
+            <name>
+              <surname>Imhauser</surname>
+              <given-names>C.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Anterior laxity, lateral tibial slope, and in situ ACL force differentiate knees exhibiting distinct patterns of motion during a pivoting event: A human cadaveric study</article-title>
+          <source>J. Biomech.</source>
+          <year>2018</year>
+          <volume>74</volume>
+          <fpage>9</fpage>
+          <lpage>15</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jbiomech.2018.04.002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27-jcm-1063296">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Song</surname>
+              <given-names>G.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Q.-Q.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Increased Medial Meniscal Slope Is Associated with Greater Risk of Ramp Lesion in Noncontact Anterior Cruciate Ligament Injury</article-title>
+          <source>Am. J. Sports Med.</source>
+          <year>2016</year>
+          <volume>44</volume>
+          <fpage>2039</fpage>
+          <lpage>2046</lpage>
+          <pub-id pub-id-type="doi">10.1177/0363546516640516</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B28-jcm-1063296">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lorbach</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Kieb</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Herbort</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Weyers</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Raschke</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Engelhardt</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>The influence of the medial meniscus in different conditions on anterior tibial translation in the anterior cruciate deficient knee</article-title>
+          <source>Int. Orthop.</source>
+          <year>2014</year>
+          <volume>39</volume>
+          <fpage>681</fpage>
+          <lpage>687</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00264-014-2581-x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29-jcm-1063296">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frank</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Moatshe</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Brady</surname>
+              <given-names>A.W.</given-names>
+            </name>
+            <name>
+              <surname>Dornan</surname>
+              <given-names>G.J.</given-names>
+            </name>
+            <name>
+              <surname>Coggins</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Muckenhirn</surname>
+              <given-names>K.J.</given-names>
+            </name>
+            <name>
+              <surname>Slette</surname>
+              <given-names>E.L.</given-names>
+            </name>
+            <name>
+              <surname>Mikula</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>Laprade</surname>
+              <given-names>R.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Lateral Meniscus Posterior Root and Meniscofemoral Ligaments as Stabilizing Structures in the ACL-Deficient Knee: A Biomechanical Study</article-title>
+          <source>Orthop. J. Sports Med.</source>
+          <year>2017</year>
+          <volume>5</volume>
+          <pub-id pub-id-type="doi">10.1177/2325967117695756</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30-jcm-1063296">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kolbe</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Schmidt-Hebbel</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Forkel</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Pogorzelski</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Imhoff</surname>
+              <given-names>A.B.</given-names>
+            </name>
+            <name>
+              <surname>Feucht</surname>
+              <given-names>M.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Steep lateral tibial slope and lateral-to-medial slope asymmetry are risk factors for concomitant posterolateral meniscus root tears in anterior cruciate ligament injuries</article-title>
+          <source>Knee Surg. Sports Traumatol. Arthrosc.</source>
+          <year>2019</year>
+          <volume>27</volume>
+          <fpage>2585</fpage>
+          <lpage>2591</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00167-018-5279-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B31-jcm-1063296">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jah</surname>
+              <given-names>A.A.E.</given-names>
+            </name>
+            <name>
+              <surname>Keyhani</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Zarei</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Moghaddam</surname>
+              <given-names>A.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Accuracy of MRI in comparison with clinical and arthroscopic findings in ligamentous and meniscal injuries of the knee</article-title>
+          <source>Acta Orthop. Belg.</source>
+          <year>2005</year>
+          <volume>71</volume>
+          <fpage>189</fpage>
+          <lpage>196</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B32-jcm-1063296">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Er&#xE7;in</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Kaya</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Sungur</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Demirbas</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Ugras</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Cetinus</surname>
+              <given-names>E.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>History, clinical findings, magnetic resonance imaging, and arthroscopic correlation in meniscal lesions</article-title>
+          <source>Knee Surg. Sports Traumatol. Arthrosc.</source>
+          <year>2012</year>
+          <volume>20</volume>
+          <fpage>851</fpage>
+          <lpage>856</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00167-011-1636-4</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B33-jcm-1063296">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Antinolfi</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Crisitiani</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Manfreda</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Bru&#xE8;</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sarakatsianos</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Placella</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Bartoli</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Caraffa</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Relationship between Clinical, MRI, and Arthroscopic Findings: A Guide to Correct Diagnosis of Meniscal Tears</article-title>
+          <source>Joints</source>
+          <year>2017</year>
+          <volume>5</volume>
+          <fpage>164</fpage>
+          <lpage>167</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-0037-1605583</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures and Tables</title>
+      <fig id="jcm-1063296-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Flowchart of the included patients.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jcm-1063296-g001.tif"/>
+      </fig>
+      <fig id="jcm-1063296-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>The distribution of medial meniscus tears on arthroscopy. (<bold>a</bold>) Location of medial meniscus tears. (<bold>b</bold>) Type of lateral meniscus tears. Complex tear was the most frequently observed type and the posterior horn was the most involved location.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jcm-1063296-g002.tif"/>
+      </fig>
+      <fig id="jcm-1063296-f003" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p>The distribution of lateral meniscus tears on arthroscopy. (<bold>a</bold>) Location of lateral meniscus tears. (<bold>b</bold>) Type of lateral meniscus tears. Complex tear and involvement of more than two compartments were the most commonly observed features.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jcm-1063296-g003.tif"/>
+      </fig>
+      <table-wrap id="jcm-1063296-t001" position="float">
+        <object-id pub-id-type="pii">jcm-1063296-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Summary of demographic data.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin"> </th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Total Number of Patients</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Anterior Cruciate Ligament (ACL) Injury</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">No ACL Injury</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin"><italic>p</italic>-Value</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin"> </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">543</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">192</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">351</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin"> </td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin">Age</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">43.9 &#xB1; 17.4</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">37.1 &#xB1; 14.6</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">46.9 &#xB1; 17.5</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">&lt;0.001</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin">Sex</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin"> </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin"> </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin"> </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin"> </td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin">Male</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">379 </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">131</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">248</td>
+              <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin">0.556</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin">Female</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">164 </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">61</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">103</td>
+            </tr>
+            <tr>
+              <td colspan="6" align="center" valign="middle" style="border-bottom:solid thin">
+                <bold>Meniscus tear on arthroscopy</bold>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin">Medial meniscus</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">+</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">261</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">99</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">162</td>
+              <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin">0.228</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">-</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">282</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">93</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">189</td>
+            </tr>
+            <tr>
+              <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin">Lateral meniscus</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">+</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">271 </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">101</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">170</td>
+              <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin">0.353</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">-</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">273</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">91</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">181</td>
+            </tr>
+            <tr>
+              <td colspan="6" align="center" valign="middle" style="border-bottom:solid thin">
+                <bold>Meniscus tear in magnetic resonance imaging (MRI)</bold>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin">Medial meniscus</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">+</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">302</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">110</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">192</td>
+              <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin">0.561</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">-</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">241</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">82</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">159</td>
+            </tr>
+            <tr>
+              <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin">Lateral meniscus</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">+</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">258</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">86</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">172</td>
+              <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin">0.347</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">-</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">285</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">106</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">179</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin">Time from MRI to surgery (days)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">22.1 &#xB1; 9.2</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">21.9 &#xB1; 7.3</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">23.3 &#xB1; 9.8</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.080</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap id="jcm-1063296-t002" position="float">
+        <object-id pub-id-type="pii">jcm-1063296-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>Diagnostic accuracy of MRI for medial meniscus tear in ACL-injured knees.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin"> </th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Sensitivity</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Specificity</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Accuracy</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">PPV</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">NPV</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td colspan="6" align="center" valign="middle" style="border-bottom:solid thin">Type</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Longitudinal</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">48.2%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">91.9%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">79.2%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">71.1%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">81.2%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Horizontal</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">33.3%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">96.2%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">94.3%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">22.2%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">97.8%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Radial</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">66.7%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">92.1%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">91.7%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">11.8%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">99.4%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Vertical flap</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">99.5%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">99.5%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">100%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Horizontal flap</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">99.5%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">99.5%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">100%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Complex</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">76.5%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">88.6%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">86.5%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">59.1%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">94.6%</td>
+            </tr>
+            <tr>
+              <td colspan="6" align="center" valign="middle" style="border-bottom:solid thin">Location </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Anterior horn</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">98.4%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">97.4%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">98.9%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Body</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">50.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">100.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">98.4%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">100.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">98.4%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Posterior horn</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">64.8%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">83.3%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">78.1%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">60.3%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">85.8%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">More than two compartment</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">67.6%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">85.8%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">82.3%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">53.2%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">91.7%</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>Data given as percentage (%).</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="jcm-1063296-t003" position="float">
+        <object-id pub-id-type="pii">jcm-1063296-t003_Table 3</object-id>
+        <label>Table 3</label>
+        <caption>
+          <p>Diagnostic accuracy of MRI for lateral meniscus tear in ACL-injured knees.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin"> </th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Sensitivity</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Specificity</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Accuracy</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">PPV</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">NPV</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td colspan="6" align="center" valign="middle" style="border-bottom:solid thin">Type</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Longitudinal</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">31.4%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">96.2%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">84.4%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">64.7%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">86.3%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Horizontal</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">14.3%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">94.6%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">91.7%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">9.1%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">96.7%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Radial</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">58.3%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">95.2%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">90.6%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">63.6%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">94.1%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Vertical flap</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">98.4%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">97.4%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">98.9%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Horizontal flap</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">99.5%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">99.5%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">100%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Complex</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">89.9%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">88.6%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">82.8%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">50.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">89.4%</td>
+            </tr>
+            <tr>
+              <td colspan="6" align="center" valign="middle" style="border-bottom:solid thin">Location </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Anterior horn</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">80.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">96.8%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">96.4%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">40.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">99.5%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Body</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">30.8%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">97.2%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">92.7%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">44.4%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">95.1%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Posterior horn</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">43.4%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">89.2%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">76.6%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">60.5%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">80.5%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">More than two compartment</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">50.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">91.9%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">85.4%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">53.6%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">90.9%</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>Data given as percentage (%).</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="jcm-1063296-t004" position="float">
+        <object-id pub-id-type="pii">jcm-1063296-t004_Table 4</object-id>
+        <label>Table 4</label>
+        <caption>
+          <p>Diagnostic accuracy of MRI for medial meniscus tear in ACL-intact knees.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin"> </th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Sensitivity</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Specificity</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Accuracy</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">PPV</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">NPV</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td colspan="6" align="center" valign="middle" style="border-bottom:solid thin">Type</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Longitudinal</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">58.3%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">98.2%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">95.4%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">70.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">96.9%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Horizontal</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">69.2%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">86.8%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">85.5%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">29.5%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">97.2%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Radial</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">38.5%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">94.9%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">92.9%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">22.7%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">97.6%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Vertical flap</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">100%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">99.7%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">99.7%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Horizontal flap</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">99.7%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">99.7%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">100%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Complex</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">65.3%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">90.5%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">83.5%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">72.7%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">87.1%</td>
+            </tr>
+            <tr>
+              <td colspan="6" align="center" valign="middle" style="border-bottom:solid thin">Location</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Anterior horn</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">99.2%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">98.3%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">99.1%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Body</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">21.1%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">97.9%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">93.7%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">36.4%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">95.6%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Posterior horn</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">62.3%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">87.6%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">82.6%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">55.1%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">90.5%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">More than two compartment</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">85.9%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">85.7%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">85.8%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">60.4%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">96.0%</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>Data given as percentage (%).</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="jcm-1063296-t005" position="float">
+        <object-id pub-id-type="pii">jcm-1063296-t005_Table 5</object-id>
+        <label>Table 5</label>
+        <caption>
+          <p>Diagnostic accuracy of MRI for lateral meniscus tear in ACL-intact knees.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin"> </th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Sensitivity</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Specificity</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Accuracy</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">PPV</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">NPV</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td colspan="6" align="center" valign="middle" style="border-bottom:solid thin">Type</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Longitudinal</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">61.8%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">96.6%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">91.2%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">77.3%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">93.2%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Horizontal</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">48.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">94.2%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">90.9%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">38.7%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">95.9%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Radial</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">53.6%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">91.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">88.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">34.1%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">95.8%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Vertical flap</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">75.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">99.7%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">99.4%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">75.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">99.7%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Horizontal flap</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">100%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">100%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">100%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Complex</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">44.8%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">91.1%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">83.5%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">50.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">89.3%</td>
+            </tr>
+            <tr>
+              <td colspan="6" align="center" valign="middle" style="border-bottom:solid thin">Location</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Anterior horn</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">55.6%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">94.7%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">93.7%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">21.7%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">98.8%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Body</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">47.3%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">95.3%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">87.7%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">65.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">90.7%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Posterior horn</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">48.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">97.5%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">94.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">60.0%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">96.1%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">More than two compartments</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">72.8%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">91.9%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">87.5%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">72.8%</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">91.9%</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>Data given as percentage (%).</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+    </sec>
+    <fn-group>
+      <fn>
+        <p><bold>Publisher&#x2019;s Note:</bold> MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
